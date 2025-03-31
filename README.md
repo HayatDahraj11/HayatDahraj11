@@ -26,4 +26,4 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
 
 ## 📫 Let’s Connect
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/hayat-sikandar-dahraj/))
+- 🔗 [LinkedIn](((https://www.linkedin.com/in/hayat-sikandar-dahraj/))
