@@ -58,12 +58,5 @@ Full-stack finance dashboard with JWT authentication, Context API state manageme
 
 
 
-## Recommendation
-
-
->
-> — **Dr. Cynthia Pope**, Associate Teaching Professor of Technical Communication & Rhetoric, University of North Texas
-
----
 
 📫 **[hayaty0923@gmail.com](mailto:hayaty0923@gmail.com)**  ·  🔗 **[LinkedIn](https://www.linkedin.com/in/hayat-sikandar-dahraj)**
